@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NYT-DEMO</string>
+    <string name="home_title">NY Times Most Popular</string>
+    <string name="empty_list">There are no most viewd found</string>
+    <string name="search_text">Search as per requirement.</string>
+    <string name="more_text">More option as per requirement.</string>
+</resources>

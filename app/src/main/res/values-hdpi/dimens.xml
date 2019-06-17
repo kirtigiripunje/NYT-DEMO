@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--   dp converter from 1dp to 30dp -->
+    
+    
+    <dimen name="pointfive_dp" tools:ignore="MissingDefaultResource">0.42dp</dimen>
+    <dimen name="one_dp">0.85dp</dimen>
+    <dimen name="two_dp">1.7dp</dimen>
+    <dimen name="three_dp">2.55dp</dimen>
+    <dimen name="four_dp">3.4dp</dimen>
+    <dimen name="five_dp">4.25dp</dimen>
+    <dimen name="six_dp">5.1dp</dimen>
+    <dimen name="seven_dp">5.95dp</dimen>
+    <dimen name="eight_dp">6.8dp</dimen>
+    <dimen name="nine_dp">7.65dp</dimen>
+    <dimen name="ten_dp">8.5dp</dimen>
+    <dimen name="eleven_dp">9.53dp</dimen>
+    <dimen name="twelve_dp">10.2dp</dimen>
+    <dimen name="thirteen_dp">11.05dp</dimen>
+    <dimen name="fourteen_dp">11.9dp</dimen>
+    <dimen name="fifteen_dp">12.75dp</dimen>
+    <dimen name="sixteen_dp">13.6dp</dimen>
+    <dimen name="senteen_dp">14.45dp</dimen>
+    <dimen name="eighteen_dp">15.3dp</dimen>
+    <dimen name="ninteen_dp">16.15dp</dimen>
+    <dimen name="twenty_dp">17dp</dimen>
+    <dimen name="twentyone_dp">17.85dp</dimen>
+    <dimen name="twentytwo_dp">18.7dp</dimen>
+    <dimen name="twentythree_dp">19.55dp</dimen>
+    <dimen name="twentyfour_dp">20.4dp</dimen>
+    <dimen name="twentyfive_dp">21.25dp</dimen>
+    <dimen name="twentysix_dp">22.1dp</dimen>
+    <dimen name="twentyseven_dp">22.95dp</dimen>
+    <dimen name="twentyeight_dp">23.8dp</dimen>
+    <dimen name="twentynine_dp">24.65dp</dimen>
+    <dimen name="thirty_dp">25.5dp</dimen>
+    
+    <dimen name="fourty_dp">34dp</dimen>
+      <dimen name="fifty_dp">45dp</dimen>
+    <dimen name="sixty_dp">51dp</dimen>
+    <dimen name="seventytwo_dp">61.2dp</dimen>
+    <dimen name="eighty_dp">68dp</dimen>
+    <dimen name="hundred_dp">85dp</dimen>
+    <dimen name="hundrednfifty_dp">120dp</dimen>
+    <dimen name="twohundred_dp">170dp</dimen>
+    <dimen name="threehundred_dp">270dp</dimen>
+
+     <!--   dp converter from 1sp to 30sp-->
+    <dimen name="one_sp">0.85sp</dimen>
+    <dimen name="two_sp">1.7sp</dimen>
+    <dimen name="three_sp">2.55sp</dimen>
+    <dimen name="four_sp">3.4sp</dimen>
+    <dimen name="five_sp">4.25sp</dimen>
+    <dimen name="six_sp">5.1sp</dimen>
+    <dimen name="seven_sp">5.95sp</dimen>
+    <dimen name="eight_sp">6.8sp</dimen>
+    <dimen name="nine_sp">7.65sp</dimen>
+    <dimen name="ten_sp">8.5sp</dimen>
+    <dimen name="eleven_sp">9.53sp</dimen>
+    <dimen name="twelve_sp">10.2sp</dimen>
+    <dimen name="thirteen_sp">11.05sp</dimen>
+    <dimen name="fourteen_sp">11.9sp</dimen>
+    <dimen name="fifteen_sp">12.75sp</dimen>
+    <dimen name="sixteen_sp">13.6sp</dimen>
+    <dimen name="senteen_sp">14.45sp</dimen>
+    <dimen name="eighteen_sp">15.3sp</dimen>
+    <dimen name="ninteen_sp">16.15sp</dimen>
+    <dimen name="twenty_sp">17sp</dimen>
+    <dimen name="twentyone_sp">17.85sp</dimen>
+    <dimen name="twentytwo_sp">18.7sp</dimen>
+    <dimen name="twentythree_sp">19.55sp</dimen>
+    <dimen name="twentyfour_sp">20.4sp</dimen>
+    <dimen name="twentyfive_sp">21.25sp</dimen>
+    <dimen name="twentysix_sp">22.1sp</dimen>
+    <dimen name="twentyseven_sp">22.95sp</dimen>
+    <dimen name="twentyeight_sp">23.8sp</dimen>
+    <dimen name="twentynine_sp">24.65sp</dimen>
+    <dimen name="thirty_sp">25.5sp</dimen>
+
+</resources>
